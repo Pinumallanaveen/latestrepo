@@ -1,0 +1,2 @@
+FROM Pinumallanaveen/webapp
+ADD. /var/www/html
